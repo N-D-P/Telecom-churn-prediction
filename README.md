@@ -2,6 +2,11 @@
 
 Churn rate is an efficient indicator for subscription-based companies. Identifying customers who aren't happy with provided solutions allows businesses to learn about product or pricing plan weak points, operation issues, and customer preferences and expectations to reduce reasons for churn proactively.
 
+> How to run
+```
+streamlit run app.py
+```
+
 Designing churn prediction workflow
 The overall scope to build an ML-powered application to forecast customer attrition is generic to standardized ML project structure that includes the following steps:
 
